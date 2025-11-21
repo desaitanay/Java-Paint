@@ -10,14 +10,6 @@ import javafx.scene.paint.Color;
  * This class extends the Brush class and defines the behavior of a watercolor
  * brush tool for drawing on a canvas. It provides methods for drawing with
  * varying opacity, making it suitable for creating watercolor-like effects.
- * 
- * @author Doom Al Rajhi
- * @file: WatercolorBrush.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
- * 
  */
 public class WatercolorBrush extends Brush {
 	/**
