@@ -13,13 +13,7 @@ import javafx.scene.shape.ArcType;
  * extends the DrawingTool class and implements the 'draw' method to draw
  * circles on the canvas. Users can select different circle properties such as
  * color and size when using this tool.
- * 
- * @author Vivian Alonso, Doom Al Rajhi
- * @file: Circle.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
+ *
  */
 public class Circle extends DrawingTool {
 	/**
