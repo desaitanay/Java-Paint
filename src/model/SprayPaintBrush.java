@@ -13,12 +13,6 @@ import javafx.scene.paint.Color;
  * brush tool for creating artistic effects on a canvas. It simulates the
  * dispersion of paint particles to achieve a spray paint-like appearance.
  * 
- * @author Doom Al Rajhi
- * @file: SprayPaintBrush.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date 11/30/2023
- * @version 1.6
  * 
  */
 public class SprayPaintBrush extends Brush {
