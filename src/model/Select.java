@@ -14,12 +14,6 @@ import javafx.scene.paint.Color;
  * the canvas. It allows users to click and drag to select objects and perform
  * actions like moving or resizing the selection.
  * 
- * @author Hannibal Oyebode, Doom Al Rajhi
- * @file: Select.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class Select extends DrawingTool {
 
