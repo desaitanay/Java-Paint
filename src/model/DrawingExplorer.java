@@ -28,12 +28,6 @@ import javafx.stage.WindowEvent;
  * handles actions such as exporting, importing, saving drawings, and showing
  * alerts.
  * 
- * @author Doom Al Rajhi, Tanay Desai
- * @file: DrawingExplorer.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class DrawingExplorer implements Serializable {
 	private static final long serialVersionUID = 4211396090447480389L;
