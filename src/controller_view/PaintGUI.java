@@ -12,12 +12,6 @@ import model.DrawingExplorer;
  * Represents the main class for a Paint graphical user interface. This class
  * sets up the JavaFX application and initializes the GUI components.
  *
- * @author Doom Al Rajhi, Vivian Alonso, Tanay Desai, Hannibal Oyebode
- * @file: PaintGUI.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class PaintGUI extends Application {
     private PaintCanvasGUI paintWindowCanvasGUI;
