@@ -12,12 +12,6 @@ import javafx.scene.paint.Color;
  * Triangles on the canvas. Users can select different Triangle properties such
  * as color and size when using this tool.
  * 
- * @author Vivian Elena Alonso, Doom Al Rajhi
- * @file: Triangle.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class Triangle extends DrawingTool {
 
