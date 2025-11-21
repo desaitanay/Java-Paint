@@ -4,7 +4,6 @@ package model;
  * as a separate class, but we found it would be more efficient to implement
  * as a few methods within the PaintGUI and PaintCanvasGUI classes
  * 
- * @author Hannibal Oyebode
  */
 import controller_view.DrawingCanvas;
 import javafx.scene.canvas.GraphicsContext;
@@ -16,13 +15,6 @@ import javafx.scene.layout.StackPane;
  * This class facilitates the creation of a new canvas with a specified width
  * and height, transferring the content from an existing canvas to the new one.
  * It is used to resize the drawing canvas while preserving its content.
- * 
- * @author Hannibal, Doom Al Rajhi
- * @file: CanvasResizer.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class CanvasResizer {
 	private DrawingCanvas canvas;
