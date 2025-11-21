@@ -17,12 +17,6 @@ import javafx.scene.paint.Color;
  * enclosed areas on the canvas. Users can choose the fill color when using this
  * tool.
  * 
- * @author Vivian Alonso, Doom Al Rajhi
- * @file: Fill.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class Fill extends DrawingTool {
 
