@@ -23,13 +23,6 @@ import model.UndoRedoManager;
  * allows users to select a current drawing tool, pen color, and perform
  * freehand drawing.
  * 
- * @author Doom Al Rajhi, Vivian Alonso, Tanay Desai, Hannibal Oyebode
- * @file: DrawingCanvas.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- *
- * @version 1.6
  */
 public class DrawingCanvas extends Canvas implements Serializable {
 	private static final long serialVersionUID = 1L;
