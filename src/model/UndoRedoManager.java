@@ -12,12 +12,6 @@ import javafx.scene.image.WritableImage;
  * for redoing actions. Users can undo the most recent action and redo
  * previously undone actions.
  *
- * @author Doom Al Rajhi and Tanay Desai
- * @file: UndoRedoManager.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class UndoRedoManager {
 	private Stack<Action> undoStack; // Stack for storing actions to undo.
