@@ -11,12 +11,6 @@ import javafx.scene.text.Font;
  * This class represents the text logic, which handles all the necessary changes
  * or logic for the text feature
  * 
- * @author Doom Al Rajhi
- * @file: TextTool.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class TextTool extends DrawingTool {
 	private TextField textField;
