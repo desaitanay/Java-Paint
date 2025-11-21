@@ -10,14 +10,7 @@ import javafx.scene.paint.Color;
  * This abstract class serves as the foundation for all drawing tools in the
  * application, providing a common structure and managing properties like color
  * and size. Subclasses must implement the 'draw' method.
- * 
- * 
- * @author Doom Al Rajhi, Hannibal Oyebode
- * @file: DrawingTool.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
+ *
  */
 public abstract class DrawingTool {
 	protected Color color; // The color used by the drawing tool.
