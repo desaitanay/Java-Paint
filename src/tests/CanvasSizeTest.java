@@ -11,13 +11,6 @@ import javafx.stage.Stage;
  * This class demonstrates canvas resizing by copying the graphics context of an
  * initial canvas and pasting it on a new canvas of different size. It showcases
  * how to resize a canvas while preserving its content.
- * 
- * @author Hannibal, Doom Al Rajhi
- * @file: CanvasSizeTest.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class CanvasSizeTest extends Application {
 
