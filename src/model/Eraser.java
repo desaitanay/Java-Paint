@@ -11,12 +11,6 @@ import javafx.scene.paint.Color;
  * canvas. It implements the 'draw' method to erase content based on the
  * eraser's size. Users can customize the eraser size.
  *
- * @author Vivian Alonso, Doom Al Rajhi
- * @file: Eraser.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class Eraser extends DrawingTool {
 	/**
