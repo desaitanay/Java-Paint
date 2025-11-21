@@ -15,14 +15,6 @@ import javafx.scene.paint.Color;
  * This test class contains unit tests for the DrawingCanvas class, which is
  * responsible for providing functionality for drawing on a canvas using various
  * drawing tools.
- * 
- * @author Doom Al Rajhi
- * @FILE: DrawingCanvasTest.java
- * @ASSIGNMENT: Paint Application Final Project
- * @COURSE: CSC 335 Fall 2023
- * @DATE: 11/08/2023
- *
- * @version 1.0
  */
 public class DrawingCanvasTest {
 
