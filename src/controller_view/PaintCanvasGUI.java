@@ -41,13 +41,6 @@ import model.WatercolorBrush;
  * Represents the main class for showing all the components that are required
  * for the application. It also shows the DrawingCanvas. This class initializes
  * and manages the GUI components for a painting application.
- * 
- * @author Doom Al Rajhi, Vivian Alonso, Tanay Desai, Hannibal Oyebode
- * @file: PaintCanvasGUI.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class PaintCanvasGUI extends BorderPane {
 
