@@ -11,13 +11,7 @@ import javafx.scene.paint.Color;
  * extends the DrawingTool class and implements the 'draw' method to draw
  * squares on the canvas. Users can select different Square properties such as
  * color and size when using this tool.
- * 
- * @author Vivian Alonso, Doom Al Rajhi
- * @file: Square.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
+ *
  */
 public class Square extends DrawingTool {
 
