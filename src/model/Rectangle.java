@@ -12,12 +12,6 @@ import javafx.scene.paint.Color;
  * rectangles on the canvas. Users can select different rectangle properties
  * such as color and size when using this tool.
  * 
- * @author Vivian Alonso, Doom Al Rajhi
- * @file: Rectangle.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class Rectangle extends DrawingTool {
 
