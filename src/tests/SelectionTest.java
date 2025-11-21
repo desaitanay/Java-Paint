@@ -18,12 +18,6 @@ import javafx.stage.Stage;
  * demonstrates how to select pixels on a canvas and create a new canvas with
  * the selected pixels.
  * 
- * @author Hannibal, Doom Al Rajhi
- * @file: SelectionTest.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class SelectionTest extends Application {
 
