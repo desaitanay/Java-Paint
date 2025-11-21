@@ -10,12 +10,6 @@ import javafx.scene.paint.Color;
  * provides the implementation for the Brush tool, allowing users to perform
  * free hand drawing with customizable brush sizes and colors.
  * 
- * @author Doom Al Rajhi, Vivian Alonso
- * @file: Brush.java
- * @assignment: Paint Application Final Project
- * @course: CSC 335 Fall 2023
- * @date: 11/30/2023
- * @version 1.6
  */
 public class Brush extends DrawingTool {
 
